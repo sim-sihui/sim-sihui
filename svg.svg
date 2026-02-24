@@ -26,13 +26,6 @@
       <stop offset="100%" stop-color="#F1F5F9" />
     </linearGradient>
 
-
-    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FEF08A" stop-opacity="1" />
-      <stop offset="40%" stop-color="#FDE047" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#FEF08A" stop-opacity="0" />
-    </radialGradient>
-
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.06" />
     </filter>
@@ -50,7 +43,7 @@
     }
     .cloud { animation: moveRight linear infinite; }
     
-    .c1 { animation-duration: 40s; animation-delay: -10s; }
+    .c1 { animation-duration: 70s; animation-delay: -10s; }
     .c2 { animation-duration: 65s; animation-delay: -30s; }
     .c3 { animation-duration: 50s; animation-delay: -5s; }
     .c4 { animation-duration: 85s; animation-delay: -45s; }
@@ -59,15 +52,11 @@
     .c7 { animation-duration: 75s; animation-delay: -60s; }
     .c8 { animation-duration: 55s; animation-delay: -15s; }
     .c9 { animation-duration: 95s; animation-delay: -50s; }
-    .c10 { animation-duration: 38s; animation-delay: -4s; }
+    .c10 { animation-duration: 120s; animation-delay: -4s; }
 
     @keyframes pulse {
       0%, 100% { transform: scale(1); opacity: 0.7; }
       50% { transform: scale(1.08); opacity: 1; }
-    }
-    .sun-glow { 
-      animation: pulse 8s ease-in-out infinite; 
-      transform-origin: 150px 150px; 
     }
 
     @keyframes fly1 {
@@ -106,15 +95,10 @@
   </style>
 
   <rect width="100%" height="100%" fill="url(#skyGrad)" rx="15" />
-  
-  <g>
-    <circle cx="150" cy="150" r="130" fill="url(#sunGlow)" class="sun-glow" />
-    <circle cx="150" cy="150" r="60" fill="#FFFED4" filter="url(#shadow)" />
-  </g>
 
 
   <g transform="scale(0.6)"><use href="#cloud2" class="cloud c5" y="600" opacity="0.4" /></g>
-  <g transform="scale(0.7)"><use href="#cloud1" class="cloud c9" y="100" opacity="0.5" /></g>
+  <g transform="scale(0.5)"><use href="#cloud1" class="cloud c9" y="100" opacity="0.5" /></g>
   <g transform="scale(0.5)"><use href="#cloud2" class="cloud c4" y="800" opacity="0.6" /></g>
 
 
