@@ -1,4 +1,36 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<div style="position: relative; width: 100%; height: 200px; background: linear-gradient(to bottom, #87CEEB 0%, #E0F6FF 100%); overflow: hidden; border-radius: 10px; display: flex; align-items: center; justify-content: center;">
+  <style>
+    @keyframes float-left {
+      0% { transform: translateX(100%); opacity: 0; }
+      10% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { transform: translateX(-100%); opacity: 0; }
+    }
+    .cloud {
+      position: absolute;
+      background: white;
+      border-radius: 100px;
+      opacity: 0.8;
+      animation: float-left linear infinite;
+    }
+    .cloud::before, .cloud::after {
+      content: '';
+      position: absolute;
+      background: white;
+      border-radius: 100px;
+    }
+    .cloud::before { width: 50px; height: 50px; top: -25px; left: 10px; }
+    .cloud::after { width: 40px; height: 40px; top: -20px; right: 10px; }
+    .cloud1 { width: 80px; height: 35px; top: 30px; animation-duration: 8s; animation-delay: 0s; }
+    .cloud2 { width: 100px; height: 40px; top: 80px; animation-duration: 10s; animation-delay: 2s; }
+    .cloud3 { width: 70px; height: 30px; top: 60px; animation-duration: 9s; animation-delay: 4s; }
+    .heading { position: absolute; font-size: 36px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); z-index: 10; font-family: Arial, sans-serif; }
+  </style>
+  <div class="cloud cloud1"></div>
+  <div class="cloud cloud2"></div>
+  <div class="cloud cloud3"></div>
+  <div class="heading">Hey I'm Sim SI Hui</div>
+</div>
 
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
