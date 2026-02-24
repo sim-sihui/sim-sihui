@@ -78,19 +78,20 @@
 
 .text-title {
   font-family: 'Lora', serif;
-  font-size: 64px;
+  font-size: 100px;
   font-weight: 800;
   font-style: italic;
-  fill: #16417d;
-  letter-spacing: 1px;
+  fill: #3c5a85;
+  letter-spacing: 2px;
 }
 
 .text-subtitle {
   font-family: 'DM Sans', sans-serif;
-  font-size: 38px;
+  font-size: 40px;
   font-weight: 600;
-  fill: #16417d;
-  letter-spacing: 0.5px;
+  fill: #3c5a85;
+;
+  letter-spacing: 1px;
 }
 
 
@@ -128,7 +129,7 @@
     <rect width="1000" height="250" rx="35" class="glass-card" filter="url(#shadow)" />
     
     <text x="500" y="115" class="text-title" text-anchor="middle" filter="url(#textGlow)">
-      Hey there! I am Sim Si Hui.
+      Hey there!
     </text>
     
     <text x="500" y="185" class="text-subtitle" text-anchor="middle" filter="url(#textGlow)">
