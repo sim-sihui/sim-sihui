@@ -1,4 +1,5 @@
 <svg viewBox="0 0 1500 650" width="1500" height="650" xmlns="http://www.w3.org/2000/svg">
+
   
   <defs>
 
@@ -72,20 +73,27 @@
     .bird2 { animation: fly2 45s linear infinite -20s; }
 
     text {
-      font-family: 'Playfair Display', serif;
-      font-style: italic;
-    }
-    .text-title {
-      font-size: 64px;
-      font-weight: 700;
-      fill: #0F172A;
-      letter-spacing: 1px;
-    }
-    .text-subtitle {
-      font-size: 38px;
-      font-weight: 600;
-      fill: #334155;
-    }
+  font-family: 'DM Sans', sans-serif;
+}
+
+.text-title {
+  font-family: 'Lora', serif;
+  font-size: 64px;
+  font-weight: 600;
+  font-style: italic;   /* subtle elegance */
+  fill: #0F172A;
+  letter-spacing: 1px;
+}
+
+.text-subtitle {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  fill: #334155;
+  letter-spacing: 0.5px;
+}
+
+
     .glass-card {
       fill: #ffffff;
       fill-opacity: 0.35;
