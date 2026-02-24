@@ -72,7 +72,8 @@
     .bird2 { animation: fly2 45s linear infinite -20s; }
 
     text {
-      font-family: 'Caveat', cursive;
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
     }
     .text-title {
       font-size: 64px;
@@ -84,7 +85,6 @@
       font-size: 38px;
       font-weight: 600;
       fill: #334155;
-      letter-spacing: 0.5px;
     }
     .glass-card {
       fill: #ffffff;
