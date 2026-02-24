@@ -1,4 +1,6 @@
 <svg viewBox="0 0 1500 650" width="1500" height="650" xmlns="http://www.w3.org/2000/svg">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+  
   <defs>
 
     <g id="cloud1" filter="url(#shadow)">
@@ -71,19 +73,19 @@
     .bird2 { animation: fly2 45s linear infinite -20s; }
 
     text {
-      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-family: 'Caveat', cursive;
     }
     .text-title {
       font-size: 64px;
-      font-weight: 800;
+      font-weight: 700;
       fill: #0F172A;
-      letter-spacing: 2px;
+      letter-spacing: 1px;
     }
     .text-subtitle {
       font-size: 38px;
       font-weight: 600;
       fill: #334155;
-      letter-spacing: 1px;
+      letter-spacing: 0.5px;
     }
     .glass-card {
       fill: #ffffff;
