@@ -3,15 +3,15 @@
 </div>
 
 # ⭐ About Me
-I have always been amazed by how the world continuously upgrades itself, physically and digitally. Behind every meaningful innovation, there must be a strong foundation for it to truly last.
+I’ve always been fascinated by how the world evolves through meaningful innovation — both physical and digital. Behind every lasting product is not just strong engineering, but clear problem definition and thoughtful decision-making.
 
-**Originally trained in civil engineering, transitioning from improving physical infrastructure to building digital infrastructure.**
+**Trained originally in civil engineering, I’ve transitioned from building physical infrastructure to designing digital systems that solve real-world problems.**
 
-I’m drawn to the intersection of **finance** and **technology**, where data and decisions shape real outcomes. I enjoy creating **intelligent infrastructure systems** _(automation and AI-driven tools)_ that turn complex problems into scalable, meaningful solutions. To me, every idea deserves a strong foundation, which is why I’m deeply committed to building resilient infrastructure that can truly support and sustain innovation.
+I’m particularly drawn to the intersection of **finance** and **technology**, where data informs decisions and small optimisations create measurable impact. I enjoy breaking down complex challenges, aligning technical possibilities with user needs, and turning ideas into scalable, resilient solutions.
 
-Exploring the world of cloud and infrastructure engineering, while learning to optimise costs responsibly, is where I find both challenge and fulfilment.
+Currently exploring cloud and cost optimisation, I’m driven by building products that are not only functional but sustainable, efficient, and genuinely valuable.
 
-> I’m especially interested in applying technology where better systems can make a real difference:
+I’m especially interested in applying technology where better systems can make a real difference:
 
 | Industry            | Focus Areas |
 |--------------------|-------------|
