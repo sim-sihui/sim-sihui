@@ -5,7 +5,7 @@
 # ⭐ About Me
 I have always been amazed by how the world continuously upgrades itself, physically and digitally. Behind every meaningful innovation, there must be a strong foundation for it to truly last.
 
-Originally trained in civil engineering, transitioning from improving physical infrastructure to building digital infrastructure.
+**Originally trained in civil engineering, transitioning from improving physical infrastructure to building digital infrastructure.**
 
 I’m drawn to the intersection of **finance** and **technology**, where data and decisions shape real outcomes. I enjoy creating **intelligent infrastructure systems** _(automation and AI-driven tools)_ that turn complex problems into scalable, meaningful solutions. To me, every idea deserves a strong foundation, which is why I’m deeply committed to building resilient infrastructure that can truly support and sustain innovation.
 
