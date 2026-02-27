@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1500 650" width="1500" height="650" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1500 650" width="1400" height="650" xmlns="http://www.w3.org/2000/svg">
 
   
   <defs>
@@ -125,14 +125,14 @@
   <g transform="scale(1.8)"><use href="#cloud1" class="cloud c10" y="-10" opacity="1" /></g>
 
 
-  <g transform="translate(250, 200)">
-    <rect width="1000" height="250" rx="35" class="glass-card" filter="url(#shadow)" />
+  <g transform="translate(300, 200)">
+    <rect width="900" height="250" rx="35" class="glass-card" filter="url(#shadow)" />
     
-    <text x="500" y="115" class="text-title" text-anchor="middle" filter="url(#textGlow)">
+    <text x="450" y="115" class="text-title" text-anchor="middle" filter="url(#textGlow)">
       Hey there!
     </text>
     
-    <text x="500" y="185" class="text-subtitle" text-anchor="middle" filter="url(#textGlow)">
+    <text x="450" y="185" class="text-subtitle" text-anchor="middle" filter="url(#textGlow)">
       Welcome to my page.
     </text>
   </g>
