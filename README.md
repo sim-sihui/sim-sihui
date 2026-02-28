@@ -3,11 +3,13 @@
 </div>
 
 # ⭐ About Me
-I’ve always been fascinated by how the world evolves through meaningful innovation — both physical and digital. Behind every lasting product is not just strong engineering, but clear problem definition and thoughtful decision-making.
+I've always been fascinated by how the world evolves through meaningful innovation — both physical and digital. Behind every lasting product isn’t just strong engineering, but clear problem definition and thoughtful decision-making.
 
-**Trained originally in civil engineering, I’ve transitioned from building physical infrastructure to designing digital systems that solve real-world problems.**
+Trained originally in civil engineering, I learned that every enduring structure begins with a strong foundation. Today, I apply that same principle to digital infrastructure — strengthening cloud environments, optimising costs, and designing systems built to scale.
 
-I’m particularly drawn to the intersection of **finance** and **technology**, where data informs decisions and small optimisations create measurable impact. I enjoy breaking down complex challenges, aligning technical possibilities with user needs, and turning ideas into scalable, resilient solutions.
+**My journey has evolved from building physical infrastructure to improving cloud/on-prem infrastructure, and now to designing digital products that solve real-world problems.**
+
+I’m particularly drawn to the intersection of **finance** and **technology**, where data drives decisions, and small optimisations create measurable impact. I enjoy breaking down complex challenges, aligning technical possibilities with user needs, and turning ideas into scalable, resilient applications.
 
 Currently exploring cloud and cost optimisation, I’m driven by building products that are not only functional but sustainable, efficient, and genuinely valuable.
 
@@ -45,6 +47,7 @@ I care about creating systems that are thoughtful, lasting, and genuinely impact
 
 ### Data & Testing
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=44A5D9)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -66,6 +69,11 @@ I care about creating systems that are thoughtful, lasting, and genuinely impact
 ![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=auto)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+### Machine Learning / Prediction
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
 ### AI Platforms
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=CC9B7A)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=4285F4)
@@ -86,13 +94,14 @@ I care about creating systems that are thoughtful, lasting, and genuinely impact
 
 | 🚀 Personal Project | 📌 Status | 📝 Description |
 | ------- | ----------- | ----------- |
-| **[Enhanced Expense Tracker](https://github.com/sim-sihui/expense-tracker)** | ✅ Completed | More than a simple income and expense tracker, this application improves financial literacy, enhances cost visibility, and empowers users to make smarter money decisions. |
+| **[Stock intelligence](https://github.com/sim-sihui/stockintelligence/)** | 🌱 In Progress | More than a simple income and expense tracker, this application improves financial literacy, enhances cost visibility, and empowers users to make smarter money decisions. |
+| **[Enhanced Expense Tracker](https://github.com/sim-sihui/expense-tracker)** | 🌱 In Progress | More than a simple income and expense tracker, this application improves financial literacy, enhances cost visibility, and empowers users to make smarter money decisions. |
 | **[TDP Fraud Detection Application](https://github.com/ZuhailiAminUOB/fraud-detection-app)** | ✅ Completed | An AI-powered fraud detection system that analyzes financial transactions in real time using advanced machine learning to strengthen banking security and protect customer trust. **Presentation in website:** https://fraud-detection-app-five.vercel.app/home |
 | **[XRperience – VR Career Fair 2021](https://edu.delightex.com/MUV-ZWQ)** | ✅ Completed | Engineered a Virtual Reality (VR) educational platform using Delightex Edu, delivering immersive 3D simulations to model complex career pathways and provide actionable professional insights. |
 | **[Food Recommendation Application](https://snack.expo.dev/@pussycatdoll/applicationapp)** | ✅ Completed | Designed and deployed a cross-platform React Native application using JavaScript and modular architecture to deliver dynamic, responsive mobile experiences that boost local business visibility. |
 | **[Hidden Bridge Virtual Card Game](https://github.com/sim-sihui/Hiddenbridge-game)** | 🌱 In Progress | A 4-player virtual strategy card game that blends deduction and tactical decision-making through hidden information mechanics. |
-| **[To-do List (Angular)](https://github.com/simsihui/my-lil-assistant)** | 🌱 In Progress | A Task Management System built with Angular and TypeScript, enabling task creation, prioritization, tracking, and dynamic workflow management. |
-| **[To-do List (Full-Stack React)](https://github.com/simsihui/JS-manager)** | 🌱 In Progress | A scalable full-stack task management system built with React, TypeScript, and a Node.js backend, structured for future cloud deployment. |
+| **[My lil assistant (Angular)](https://github.com/simsihui/my-lil-assistant)** | 🌱 In Progress | A Task Management System built with Angular and TypeScript, enabling task creation, prioritization, tracking, and dynamic workflow management. |
+| **[JS Task Manager (Full-Stack React)](https://github.com/simsihui/JS-manager)** | 🌱 In Progress | A scalable full-stack task management system built with React, TypeScript, and a Node.js backend, structured for future cloud deployment. |
 
 
 ---
