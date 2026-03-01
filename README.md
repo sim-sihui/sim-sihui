@@ -18,10 +18,7 @@ I’m especially interested in applying technology where better systems can make
 | Industry            | Focus Areas |
 |--------------------|-------------|
 | 💰 **Finance**        | Strengthening financial literacy, increasing cost transparency, automating reporting workflows, enabling data-driven decision-making |
-| 🧠 **Education**      | Personalising learning pathways, improving knowledge accessibility, identifying skill gaps, tracking measurable progress |
-| 🏗️ **Construction**   | Improving cost control, predicting project risks, enhancing scheduling efficiency, optimising resource planning |
 | ⚙️ **Infrastructure** | Designing resilient systems, enhancing operational visibility, forecasting demand, optimising long-term scalability |
-| 🏥 **Healthcare**     | Simplifying workflows, reducing administrative burden, improving coordination, enhancing operational clarity |
 
 I care about creating systems that are thoughtful, lasting, and genuinely impactful.
 <br>
