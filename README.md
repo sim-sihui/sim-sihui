@@ -65,6 +65,7 @@ I care about creating systems that are thoughtful, lasting, and genuinely impact
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=auto)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 
 ### Machine Learning / Prediction
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
