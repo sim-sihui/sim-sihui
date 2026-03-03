@@ -61,11 +61,11 @@ I care about creating systems that are thoughtful, lasting, and genuinely impact
 ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 ![Chef](https://img.shields.io/badge/Chef-000000?style=for-the-badge&logo=chef&logoColor=F09820)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 <br>
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=auto)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 
 ### Machine Learning / Prediction
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
@@ -83,6 +83,7 @@ I care about creating systems that are thoughtful, lasting, and genuinely impact
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/confluence-000000?style=for-the-badge&logo=confluence&logoColor=0052CC)
+![draw.io](https://img.shields.io/badge/draw.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705)
 
 ### Design Software in Civil Engineering
 ![AutoCAD](https://img.shields.io/badge/autocad-000000?style=for-the-badge&logo=autocad&logoColor=white)
